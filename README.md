@@ -7,6 +7,7 @@ Estou aprendendo a usar o GitHub hoje!
 - Aprender a programar
 - Criar meus próprios projetos
 - Compartilhar meus códigos aqui
-- #novidade
+
+#novidade
 
 
